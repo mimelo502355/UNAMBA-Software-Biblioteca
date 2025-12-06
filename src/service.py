@@ -1,3 +1,5 @@
 "def registrar_log_devolucion(): pass" 
 "def verificar_vencimiento(): pass" 
 "def verificar_vencimiento(): return True" 
+"def verificar_vencimiento(): return True" 
+"def actualizar_ejemplar_disponible(): pass" 
